@@ -9,8 +9,14 @@ Ce package est à utiliser avec l’Universal Render Pipeline (URP) disponible �
 
 A gauche, image normale du jeu, à droite, image avec filtre "Tritanopie"
 
-<img src="images/1.PNG" width="200">
-<img src="images/2.PNG" width="200">
+<table>
+	<tr>
+		<td><img src="images/1.PNG" width="200"></td>
+		<td><img src="images/2.PNG" width="200"></td>
+	</tr>
+</table>
+
+
 
 ### Comment l’intégrer ? 
 //Ajouter méthode d’intégration
