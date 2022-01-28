@@ -13,6 +13,7 @@ A gauche, image normale du jeu, à droite, image avec filtre "Tritanopie"
 	<tr>
 		<td><img src="images/1.PNG" width="200"></td>
 		<td><img src="images/2.PNG" width="200"></td>
+		<td><img src="images/3.PNG" width="200"></td>
 	</tr>
 </table>
 
