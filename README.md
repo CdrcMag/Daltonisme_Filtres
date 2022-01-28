@@ -7,7 +7,9 @@ Ce package contient un outil permettant de voir à travers les yeux d’une pers
 ### Comment ça fonctionne ?
 Ce package est à utiliser avec l’Universal Render Pipeline (URP) disponible à travers le package manager. Celui-ci propose l’utilisation d’un post-processing volume, qui permet d’influencer visuellement le rendu d’une scène. L’utilisation de sa composante « Channel Mixer » permet de changer une couleur donnée par une autre. C’est ce procédé qui est utilisé afin de traiter 7 types de daltonismes.  
 
-A gauche, image normale du jeu, à droite, image avec filtre "Tritanopie"
+L'image de gauche représente le jeu dans son état normal. 
+L'image du centre montre le jeu lorsque le filtre "Tritanopie" est appliqué. 
+L'image de droite est une capture, sous le filtre tritanopie, une fois des changements appliqués. Ces changements permettent l'inclusion des personnes atteintes de cette forme de daltonisme. 
 
 <table align="center">
 	<tr>
